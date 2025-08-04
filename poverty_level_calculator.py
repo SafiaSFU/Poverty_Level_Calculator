@@ -1,5 +1,5 @@
 '''
-DEVELOPER: Safia ULYSSE
+DEVELOPER: Safia U.
 COLLABORATORS: ---
 DATE: May 2025
 '''
