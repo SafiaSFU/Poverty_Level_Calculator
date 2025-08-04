@@ -22,8 +22,3 @@ The poverty levels are categorized based on the percentage of the official pover
 This calculator helps visualize and classify household income levels relative to federal poverty guidelines, incorporating location-specific thresholds to increase accuracy.
 
 
-## Data
-
-This project uses a dataset file `Poverty_data.txt` which contains population size, poor people, and the poverty rate by location. The data is based on the official U.S. federal poverty guidelines, sourced from the Department of Health and Human Services (HHS).
-
-The file is included in this repository for reference and use with the Python program.
